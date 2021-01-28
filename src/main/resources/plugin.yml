@@ -1,0 +1,17 @@
+name: PopupMoneyExchange
+version: 1.0
+main: com.popupmc.popupmoneyexchange.PopupMoneyExchange
+description: Money Exchange
+author: junebug12851
+api-version: 1.15
+
+commands:
+  coins:
+    description: Convert money to or from physical coins
+    usage: /coins <buy/sell> <amount of coins>
+  squids:
+    description: Convert money to or from squid spawn eggs
+    usage: /squids <buy/sell> <amount of squids>
+  emeralds:
+    description: Convert money to or from emeralds
+    usage: /emeralds <buy/sell> <amount of emeralds>
