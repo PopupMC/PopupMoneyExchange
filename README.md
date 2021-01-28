@@ -1,6 +1,6 @@
-## Paid PVP
+## Popup Money Exchange
 
-Get paid for PVP, even uses World Guard flags for double arena pay
+Buy/sell emeralds, coins, music discs, etc...
 
 Normally I would fill out a lot of into here but this is an internal plugin
 so maybe later.
