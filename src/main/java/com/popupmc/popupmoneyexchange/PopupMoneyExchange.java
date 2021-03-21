@@ -74,5 +74,5 @@ public class PopupMoneyExchange extends JavaPlugin {
     static ItemStack coin;
     static ItemStack vanillaCoin;
     static ItemStack emeralds;
-    final static float coinWorth = 0.02f;
+    final static float coinWorth = 0.25f;
 }
